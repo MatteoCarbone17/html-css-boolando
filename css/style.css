@@ -104,3 +104,21 @@ div.product img{
     top: 2%;
 
 }
+
+.nav-low{
+    width: 100%;
+    height: 5rem;
+    background-color: rgb(26, 26, 26);
+    justify-content: space-around;
+    padding-top: .7rem;
+    margin-top: 2rem;
+    color: white;
+
+}
+
+div.a-low a{
+    color: white;
+    font-size: 0.7rem;
+    text-decoration: none;
+    
+}

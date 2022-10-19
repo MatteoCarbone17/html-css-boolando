@@ -54,12 +54,15 @@ div.product img{
     position: absolute;
 }
 
-div.product:hover>img{
-    display: inline; 
-    
-
+div.product:hover .visible{
+    display: none;
 }
-.hidden{
+
+div.product:hover .hidden{
+    display: inline;
+}
+
+img.hidden{
     display: none;
 }
 
@@ -91,7 +94,7 @@ div.product:hover>img{
     padding-right: 0.7rem;
     background-color: green;
     color: white;
-    left: 25%;
+    left: 20%;
     bottom: 5%;
 
 }

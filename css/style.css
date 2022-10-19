@@ -31,3 +31,76 @@ a{
     padding-left: 1rem;
 
 }
+
+section.row-products{
+    text-align: center;
+    margin-top: 4rem;
+}
+
+div.product{
+    display: inline-block;
+}
+
+div.product img{
+    height: 50%;
+    padding-left: 1rem;
+}
+
+.p-relative{
+    position: relative;
+}
+
+.p-absolute{
+    position: absolute;
+}
+
+.sconto{
+    font-size: 0.7rem;
+    padding-left: 0.7rem;
+    padding-right: 0.7rem;
+    background-color: red;
+    color: white;
+    left: 8%;
+    bottom: 5%;
+}
+
+.sconto-low{
+    font-size: 0.7rem;
+    padding-left: 0.7rem;
+    padding-right: 0.7rem;
+    background-color: red;
+    color: white;
+    left: 8%;
+    bottom: 5%;
+}
+
+.ability{
+    font-size: 0.7rem;
+    padding-left: 0.7rem;
+    padding-right: 0.7rem;
+    background-color: green;
+    color: white;
+    left: 25%;
+    bottom: 5%;
+
+}
+
+.ability-s{
+    font-size: 0.7rem;
+    padding-left: 0.7rem;
+    padding-right: 0.7rem;
+    background-color: green;
+    color: white;
+    left: 8%;
+    bottom: 5%;
+}
+
+.heart-span{
+    font-size: 1.3rem;
+    padding-left: 0.7rem;
+    padding-right: 0.7rem;
+    background-color: white;
+    right: 0%;
+    top: 2%;
+
+}
